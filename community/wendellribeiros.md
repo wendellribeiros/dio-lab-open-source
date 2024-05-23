@@ -1,4 +1,4 @@
-## Olá! 👋 Eu sou Wendell Ribeiro e Silva 
+## Olá! 👋 Eu sou Wendell Ribeiro e Silva!
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wendell-ribeiro-e-silva-370993192/) 
 [![Lattes Badge](http://img.shields.io/badge/-Lattes-006699?style=for-the-badge&logo=Lattes)](https://integra.ifrs.edu.br/portfolio/pessoas/wendell-ribeiro-e-silva/wendell%20ribeiro%20e%20silva)
